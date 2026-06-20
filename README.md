@@ -54,7 +54,3 @@ This dashboard provides a comprehensive sales performance analysis for a **retai
 - **Treemap** – Customer distribution by region
 - **Horizontal bar charts** – Top 5 products and top customers
 - **Slicers** – Interactive filters for dynamic exploration
-
----
-
-> 📁 *This dashboard is part of a data analyst portfolio project, demonstrating how Power BI can transform retail sales data into strategic business insights for decision-making.*
